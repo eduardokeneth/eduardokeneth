@@ -2,8 +2,7 @@
 
 I work as a **Front-End Developer** with **UI/UX design skills**. I´m lives in **Belo Horizonte-MG, Brazil**.
 
-My programming journey began in 2012 with 17 years old, when i had interest in starting to study programming logic on my own. In the following years I had the
-opportunity to do a one Computer Technician Course, and then do an internship in the area as a Front End. And in the years that followed, I went deeper and deeper into front end development with ReactJs, Redux, TypeScript and others technologies.
+My programming journey began in 2012 with 17 years old, when i had interest in starting to study programming logic on my own. In the following years I had the Computer Technician Course. And in the years that followed, I went deeper and deeper into front end development with ReactJs, Redux, TypeScript and others technologies.
 
 ### In the moment I'm focusing on (Skills) 👨‍💻
   - JavaScript | TypeScript | Kotlin   **(Languages)**
