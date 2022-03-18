@@ -10,7 +10,7 @@ I work as a **Front-End Developer** with **UI/UX design skills**. I´m lives in 
 
 ### Others links and portfolio 😃🧾
 <!-- BLOG-POST-LIST:START -->
-- [eduardok.com](http://www.eduardok.com)
+- [eduardok.com](https://www.eduardok.com/)
 - [behance.net/eduardokeneth](https://www.behance.net/eduardokeneth)
 - [mayatech.site](https://mayatech.site/)
 
