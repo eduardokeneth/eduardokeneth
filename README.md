@@ -12,7 +12,6 @@ I work as a **Front-End Developer** with **UI/UX design skills**. I´m lives in 
 <!-- BLOG-POST-LIST:START -->
 - [eduardok.com](https://www.eduardok.com/)
 - [behance.net/eduardokeneth](https://www.behance.net/eduardokeneth)
-- [mayatech.site](https://mayatech.site/)
 
 <h2>Some stats</h2>
 
