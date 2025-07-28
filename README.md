@@ -3,10 +3,11 @@
 I work as a **Front-End Developer** with **UI/UX design skills**.
 
 ### In the moment I'm focusing on (Skills) 👨‍💻
-  - JavaScript | TypeScript | Kotlin   **(Languages)**
+  - JavaScript | TypeScript | Python | Kotlin    **(Languages)**
   - Html5 | Css | JavaScript | Sass   **(Front-End)**
   - React | React Native | Hooks | Redux | Styled Components   **(React)**
   - Android | Kotlin    **(Mobile)**
+  - NodeJs | FastApi    **(BackEnd)**
 
 <h2>Some stats</h2>
 
