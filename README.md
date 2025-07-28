@@ -1,4 +1,4 @@
-### Hi, I'm [Eduardo Keneth](https://www.eduardok.com)!
+### Hi, I'm Eduardo Keneth
 
 I work as a **Front-End Developer** with **UI/UX design skills**.
 
